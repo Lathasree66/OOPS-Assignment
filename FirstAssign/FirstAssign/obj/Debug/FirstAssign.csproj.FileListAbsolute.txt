@@ -8,3 +8,13 @@ C:\Users\40006241\Desktop\C# Learnings\OOPS\Assignments\FirstAssign\FirstAssign\
 C:\Users\40006241\Desktop\C# Learnings\OOPS\Assignments\FirstAssign\FirstAssign\bin\Debug\ClassLibrary1.dll
 C:\Users\40006241\Desktop\C# Learnings\OOPS\Assignments\FirstAssign\FirstAssign\bin\Debug\ClassLibrary1.pdb
 C:\Users\40006241\Desktop\C# Learnings\OOPS\Assignments\FirstAssign\FirstAssign\obj\Debug\FirstAssign.csproj.CopyComplete
+C:\Users\40006241\Desktop\C# Learnings\FirstAssign_NEW\FirstAssign\bin\Debug\FirstAssign.exe.config
+C:\Users\40006241\Desktop\C# Learnings\FirstAssign_NEW\FirstAssign\bin\Debug\FirstAssign.exe
+C:\Users\40006241\Desktop\C# Learnings\FirstAssign_NEW\FirstAssign\bin\Debug\FirstAssign.pdb
+C:\Users\40006241\Desktop\C# Learnings\FirstAssign_NEW\FirstAssign\bin\Debug\ClassLibrary1.dll
+C:\Users\40006241\Desktop\C# Learnings\FirstAssign_NEW\FirstAssign\bin\Debug\ClassLibrary1.pdb
+C:\Users\40006241\Desktop\C# Learnings\FirstAssign_NEW\FirstAssign\obj\Debug\FirstAssign.csprojAssemblyReference.cache
+C:\Users\40006241\Desktop\C# Learnings\FirstAssign_NEW\FirstAssign\obj\Debug\FirstAssign.csproj.CoreCompileInputs.cache
+C:\Users\40006241\Desktop\C# Learnings\FirstAssign_NEW\FirstAssign\obj\Debug\FirstAssign.csproj.CopyComplete
+C:\Users\40006241\Desktop\C# Learnings\FirstAssign_NEW\FirstAssign\obj\Debug\FirstAssign.exe
+C:\Users\40006241\Desktop\C# Learnings\FirstAssign_NEW\FirstAssign\obj\Debug\FirstAssign.pdb
